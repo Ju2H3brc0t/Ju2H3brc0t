@@ -8,8 +8,8 @@ I'm a young French developer, still in high school. I code very regularly; it's 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ju2H3brc0t&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<!--[](https://streak-stats.demolab.com/?user=Ju2H3brc0t&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ju2H3brc0t&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+<!-- ![](https://github-readme-stats.shion.dev/api?username=Ju2H3brc0t&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Ju2H3brc0t&theme=transparent&hide_border=false)<br/> -->
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ju2H3brc0t&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
