@@ -10,6 +10,6 @@ I'm a young French developer, still in high school. I code very regularly; it's 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ju2H3brc0t&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!--[](https://streak-stats.demolab.com/?user=Ju2H3brc0t&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ju2H3brc0t&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ju2H3brc0t&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
